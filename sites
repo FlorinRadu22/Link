@@ -51,7 +51,7 @@
   },
   {
     "id": "wiki_en",
-    "title": "Wikipedia1",
+    "title": "Wiki",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA20lEQVQ4y62TjRGDIAyFZQpHYAgncBRHYAE3YAUWcA0WYAHHgN5HGy/Yas9a7nJKfl5eHtB1r5VzLles0+tqcQPya/EGchsgxliGYYBO8d5X5ziO235d1xrH+A8hlL7va05K6cmAgDGmLMtSZG+tbQDxSVfA3kYgSQekE6DzPDd+AW4AGAXafMUHC0zPTKNDEQnqhGmaKgvdxDl3DABdtEAcAQQA2gKotfh4jFCmC2DMyvz4KATg6z2gGyxkFDkhBNb6nF4kaGul6bwX7xRANNC2n/0v7+HWi5S6B3M1U+/DW+K0AAAAAElFTkSuQmCC",
     "url": "https://en.wikipedia.org/w/index.php?search={{IMDB_TITLE}}",
     "category": "search"

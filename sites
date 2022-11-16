@@ -850,7 +850,7 @@
   },
   {
     "id": "filelist",
-    "title": "FileList",
+    "title": " FileList ⋅",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEUsLS8pTFsmZHwje54shKUfotVCbnToAAAANElEQVQI12NwgQIGBwYwYMHLYAwNFYUwAhjgDFUwgyk0EMJgDmAwhegKYGANDWAhymSYMwBdTQvkUareoQAAAABJRU5ErkJggg==",
     "url": "http://filelist.io/browse.php?search=tt{{IMDB_ID}}&cat=0&searchin=0&sort=0",
     "noResultsMatcher": "Try again with a different search string",
